@@ -1,0 +1,10 @@
+Command line:
+   Decoder_7segment_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55054
+
+Thu Nov 14 09:26:59 2019
+
+
+ Elaboration Time: 0.046875 sec

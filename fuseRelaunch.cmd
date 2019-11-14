@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_05/Percobaan_02/Decoder_7segment_isim_beh.exe" -prj "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_05/Percobaan_02/Decoder_7segment_beh.prj" "work.Decoder_7segment" 

@@ -1,0 +1,21 @@
+# Pin assignment for LEDs
+NET "Segment<0>" LOC = "L14" ; # Bank = 3, Signal name = CA
+NET "Segment<1>" LOC = "H12" ; # Bank = 2, Signal name = CB
+NET "Segment<2>" LOC = "N14" ; # Bank = 2, Signal name = CC
+NET "Segment<3>" LOC = "N11" ; # Bank = 2, Signal name = CD
+NET "Segment<4>" LOC = "P12" ; # Bank = 2, Signal name = CE
+NET "Segment<5>" LOC = "L13" ; # Bank = 3, Signal name = CF
+NET "Segment<6>" LOC = "M12" ; # Bank = 2, Signal name = CG
+NET "dp" LOC = "N13" ; # Bank = 2, Signal name = DP
+
+# Pin assignment for SWs
+NET "Switch<3>" LOC = "B4"; # Bank = 4, Signal name = SW3
+NET "Switch<2>" LOC = "K3"; # Bank = 3, Signal name = SW2
+NET "Switch<1>" LOC = "L3"; # Bank = 3, Signal name = SW1
+NET "Switch<0>" LOC = "P11"; # Bank = 2, Signal name = SW0
+
+# Pin assignment for Digit
+NET "DigitSegmen<0>" LOC = "K14" ; # Bank = 3, Signal name = CA
+NET "DigitSegmen<1>" LOC = "M13" ; # Bank = 2, Signal name = CB
+NET "DigitSegmen<2>" LOC = "J12" ; # Bank = 2, Signal name = CC
+NET "DigitSegmen<3>" LOC = "F12" ; # Bank = 2, Signal name = CD

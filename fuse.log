@@ -1,0 +1,17 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_05/Percobaan_02/Decoder_7segment_isim_beh.exe -prj E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_05/Percobaan_02/Decoder_7segment_beh.prj work.Decoder_7segment 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_05/Percobaan_02/Decoder_7segment.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity decoder_7segment
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 3 VHDL Units
+Built simulation executable E:/Documents/Kuliah/Semester_5/Prak. VLSI/Pertemuan_05/Percobaan_02/Decoder_7segment_isim_beh.exe
+Fuse Memory Usage: 29128 KB
+Fuse CPU Usage: 671 ms
