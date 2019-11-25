@@ -5,5 +5,56 @@
      behavior or data corruption.  It is strongly advised that
      users do not edit the contents of this file. -->
 <messages>
+<msg type="error" file="HDLCompiler" num="488" delta="unknown" >"D:/project/KULIAH/5/VLSI dan Desain Logika/Praktikum_VLSI_Decoder7Segment/Decoder_7segment_TestBench.vhd" Line 60: Illegal identifier : <arg fmt="%s" index="1">_period</arg>
+</msg>
+
+<msg type="error" file="HDLCompiler" num="488" delta="unknown" >"D:/project/KULIAH/5/VLSI dan Desain Logika/Praktikum_VLSI_Decoder7Segment/Decoder_7segment_TestBench.vhd" Line 72: Illegal identifier : <arg fmt="%s" index="1">_process</arg>
+</msg>
+
+<msg type="error" file="HDLCompiler" num="488" delta="unknown" >"D:/project/KULIAH/5/VLSI dan Desain Logika/Praktikum_VLSI_Decoder7Segment/Decoder_7segment_TestBench.vhd" Line 75: Illegal identifier : <arg fmt="%s" index="1">_period</arg>
+</msg>
+
+<msg type="error" file="HDLCompiler" num="488" delta="unknown" >"D:/project/KULIAH/5/VLSI dan Desain Logika/Praktikum_VLSI_Decoder7Segment/Decoder_7segment_TestBench.vhd" Line 77: Illegal identifier : <arg fmt="%s" index="1">_period</arg>
+</msg>
+
+<msg type="error" file="HDLCompiler" num="488" delta="unknown" >"D:/project/KULIAH/5/VLSI dan Desain Logika/Praktikum_VLSI_Decoder7Segment/Decoder_7segment_TestBench.vhd" Line 88: Illegal identifier : <arg fmt="%s" index="1">_period</arg>
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="unknown" >"D:/project/KULIAH/5/VLSI dan Desain Logika/Praktikum_VLSI_Decoder7Segment/Decoder_7segment_TestBench.vhd" Line 60: Syntax error near &quot;<arg fmt="%s" index="1">&lt;</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="488" delta="unknown" >"D:/project/KULIAH/5/VLSI dan Desain Logika/Praktikum_VLSI_Decoder7Segment/Decoder_7segment_TestBench.vhd" Line 60: Illegal identifier : <arg fmt="%s" index="1">_period</arg>
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="unknown" >"D:/project/KULIAH/5/VLSI dan Desain Logika/Praktikum_VLSI_Decoder7Segment/Decoder_7segment_TestBench.vhd" Line 72: Syntax error near &quot;<arg fmt="%s" index="1">&lt;</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="488" delta="unknown" >"D:/project/KULIAH/5/VLSI dan Desain Logika/Praktikum_VLSI_Decoder7Segment/Decoder_7segment_TestBench.vhd" Line 72: Illegal identifier : <arg fmt="%s" index="1">_process</arg>
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="unknown" >"D:/project/KULIAH/5/VLSI dan Desain Logika/Praktikum_VLSI_Decoder7Segment/Decoder_7segment_TestBench.vhd" Line 74: Syntax error near &quot;<arg fmt="%s" index="1">&lt;</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="488" delta="unknown" >"D:/project/KULIAH/5/VLSI dan Desain Logika/Praktikum_VLSI_Decoder7Segment/Decoder_7segment_TestBench.vhd" Line 75: Illegal identifier : <arg fmt="%s" index="1">_period</arg>
+</msg>
+
+<msg type="error" file="HDLCompiler" num="488" delta="unknown" >"D:/project/KULIAH/5/VLSI dan Desain Logika/Praktikum_VLSI_Decoder7Segment/Decoder_7segment_TestBench.vhd" Line 77: Illegal identifier : <arg fmt="%s" index="1">_period</arg>
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1369" delta="unknown" >"D:/project/KULIAH/5/VLSI dan Desain Logika/Praktikum_VLSI_Decoder7Segment/Decoder_7segment_TestBench.vhd" Line 72: Possible infinite loop; process does not have a wait statement
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="unknown" >"D:/project/KULIAH/5/VLSI dan Desain Logika/Praktikum_VLSI_Decoder7Segment/Decoder_7segment_TestBench.vhd" Line 88: Syntax error near &quot;<arg fmt="%s" index="1">&lt;</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="488" delta="unknown" >"D:/project/KULIAH/5/VLSI dan Desain Logika/Praktikum_VLSI_Decoder7Segment/Decoder_7segment_TestBench.vhd" Line 88: Illegal identifier : <arg fmt="%s" index="1">_period</arg>
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1369" delta="unknown" >"D:/project/KULIAH/5/VLSI dan Desain Logika/Praktikum_VLSI_Decoder7Segment/Decoder_7segment_TestBench.vhd" Line 82: Possible infinite loop; process does not have a wait statement
+</msg>
+
+<msg type="error" file="HDLCompiler" num="854" delta="unknown" >"D:/project/KULIAH/5/VLSI dan Desain Logika/Praktikum_VLSI_Decoder7Segment/Decoder_7segment_TestBench.vhd" Line 38: Unit &lt;<arg fmt="%s" index="1">behavior</arg>&gt; ignored due to previous errors.
+</msg>
+
 </messages>
 

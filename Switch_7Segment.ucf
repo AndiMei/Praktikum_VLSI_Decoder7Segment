@@ -6,7 +6,7 @@ NET "Segment<3>" LOC = "N11" ; # Bank = 2, Signal name = CD
 NET "Segment<4>" LOC = "P12" ; # Bank = 2, Signal name = CE
 NET "Segment<5>" LOC = "L13" ; # Bank = 3, Signal name = CF
 NET "Segment<6>" LOC = "M12" ; # Bank = 2, Signal name = CG
-NET "dp" LOC = "N13" ; # Bank = 2, Signal name = DP
+#NET "dp" LOC = "N13" ; # Bank = 2, Signal name = DP
 
 # Pin assignment for SWs
 NET "Switch<3>" LOC = "B4"; # Bank = 4, Signal name = SW3
